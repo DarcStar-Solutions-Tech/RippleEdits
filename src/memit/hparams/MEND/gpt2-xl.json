@@ -1,8 +1,3 @@
-{
-    "lr_scale": 1.0,
-    "n_toks": 10,
-    "model_name": "gpt2-xl",
-    "counterfact": false,
-    "zsre": false,
-    "mini": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1753f486ee8475a43bbe04cefb05dc21be5c582c9934f875f051055b2e8b92fd
+size 141

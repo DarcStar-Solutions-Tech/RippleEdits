@@ -1,8 +1,3 @@
-{
-    "lr_scale": 1.0,
-    "n_toks": 10,
-    "model_name": "EleutherAI/gpt-j-6B",
-    "counterfact": true,
-    "zsre": false,
-    "mini": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c344e748ef9af842f3a893d36704384afb003e18ae13cf590f5a1678283a0f
+size 152

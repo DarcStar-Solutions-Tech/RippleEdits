@@ -1,17 +1,3 @@
-{
-    "layers": [
-        21
-    ],
-    "num_steps": 25,
-    "lr": 5e-4,
-    "weight_decay": false,
-    "wd_power_law": [-0.87028798,  0.15589562],
-    "kl_factor": 0,
-    "norm_constraint": false,
-    "rewrite_module_tmp": "transformer.h.{}",
-    "layer_module_tmp": "transformer.h.{}",
-    "mlp_module_tmp": "transformer.h.{}.mlp",
-    "attn_module_tmp": "transformer.h.{}.attn",
-    "ln_f_module": "transformer.ln_f",
-    "lm_head_module": "lm_head"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:26b2d72e3858d3296e04ca26d41f3a7269c4615be9e64bb3b50b4a9898c825f6
+size 470
